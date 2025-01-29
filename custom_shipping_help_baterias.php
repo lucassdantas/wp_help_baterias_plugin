@@ -1,8 +1,8 @@
 <?php
 /**
 * Plugin Name: Help baterias Plugin
-* Plugin URI: https://github.com/lucassdantas/custom_shipping_date
-* Update URI: https://github.com/lucassdantas/custom_shipping_date
+* Plugin URI: https://github.com/lucassdantas/wp_help_baterias_plugin.git
+* Update URI: https://github.com/lucassdantas/wp_help_baterias_plugin.git
 * Description: Custom shipping configurations and global whatsapp for help baterias
 * Version: 1.0.0
 * Author: RD Exclusive
