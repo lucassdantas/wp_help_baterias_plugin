@@ -21,3 +21,4 @@ require_once plugin_dir_path(__FILE__). 'src/check_and_add_custom_shipping_metho
 require_once plugin_dir_path(__FILE__). 'src/script_custom_date.php';
 require_once plugin_dir_path(__FILE__). 'src/script_restrict_shippings_on_variation.php';
 require_once plugin_dir_path(__FILE__). 'src/global_whatsapp.php';
+require_once plugin_dir_path(__FILE__). 'src/admin_page.php';
