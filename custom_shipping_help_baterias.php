@@ -1,12 +1,12 @@
 <?php
 /**
-* Plugin Name: Custom Shipping Help Baterias
+* Plugin Name: Help baterias Plugin
 * Plugin URI: https://github.com/lucassdantas/custom_shipping_date
 * Update URI: https://github.com/lucassdantas/custom_shipping_date
-* Description: Custom shipping configurations for help baterias
+* Description: Custom shipping configurations and global whatsapp for help baterias
 * Version: 1.0.0
-* Author: R&D Marketing Digital 
-* Author URI: https://rdmarketing.com.br/
+* Author: RD Exclusive
+* Author URI: https://rdexclusive.com.br/
 **/
 
 defined('ABSPATH') or die();
